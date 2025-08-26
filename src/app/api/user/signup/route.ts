@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import bcrypt from 'bcryptjs'
+import bcrypt from 'bcrypt'
 import { connectToDatabase } from '../../../../lib/db'
 import { signUpSchema } from '../../../../lib/validators'
 import { User } from '../../../../models/User'
