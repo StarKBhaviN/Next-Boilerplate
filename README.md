@@ -19,12 +19,12 @@ A ready-to-use **Next.js starter template** with all the essential tools pre-con
 
 ## ⚙️ Features Pre-Configured
 
-✅ NextAuth – Authentication with JWT & Providers
-✅ TanStack Query – Pre-configured QueryClientProvider
-✅ Jotai – Atoms ready for state management
-✅ Zod – Input validation & schema setup
-✅ Tailwind – Styling with dark mode ready
-✅ Strict TypeScript – Type safety enforced
+- ✅ NextAuth – Authentication with JWT & Providers
+- ✅ TanStack Query – Pre-configured QueryClientProvider
+- ✅ Jotai – Atoms ready for state management
+- ✅ Zod – Input validation & schema setup
+- ✅ Tailwind – Styling with dark mode ready
+- ✅ Strict TypeScript – Type safety enforced
 
 ---
 
