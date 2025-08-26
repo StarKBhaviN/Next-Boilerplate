@@ -4,6 +4,15 @@ A ready-to-use **Next.js starter template** with all the essential tools pre-con
 
 ---
 
+> ⚠️ This is a template repo.  
+> Please click **"Use this template"** on GitHub or change the remote after cloning:
+>
+> ```bash
+> git remote remove origin
+> git remote add origin https://github.com/your-username/your-new-project.git
+> ```
+
+
 ## 🚀 Tech Stack
 
 - [**Next.js**](https://nextjs.org/) – React framework for production  
